@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "四季",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-01-06T17:44:50.051221Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "Fish Leong",
+      "has_synced": true,
+      "path": "select/01_四季_Fish_Leong.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "梁静茹",
+      "has_synced": true,
+      "path": "select/02_四季_梁静茹.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "Eason Chan",
+      "has_synced": true,
+      "path": "select/03_四季_Eason_Chan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "陳奕迅",
+      "has_synced": true,
+      "path": "select/04_四季_陳奕迅.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "Xu Wei",
+      "has_synced": true,
+      "path": "select/05_四季_Xu_Wei.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "四季 - 4 Seasons",
+      "artist": "Xu Wei",
+      "has_synced": true,
+      "path": "select/06_四季_-_4_Seasons_Xu_Wei.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "陳珊妮",
+      "has_synced": true,
+      "path": "select/07_四季_陳珊妮.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/08_四季_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "梁靜茹",
+      "has_synced": true,
+      "path": "select/09_四季_梁靜茹.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "王力宏",
+      "has_synced": true,
+      "path": "select/10_四季_王力宏.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "Sutopuri",
+      "has_synced": true,
+      "path": "select/11_四季_Sutopuri.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "Leehom Wang",
+      "has_synced": true,
+      "path": "select/12_四季_Leehom_Wang.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "Selina",
+      "has_synced": true,
+      "path": "select/13_四季_Selina.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "张星特",
+      "has_synced": false,
+      "path": "select/14_四季_张星特.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Seasons 四季(A BEST -15th Anniversary Edition-)",
+      "artist": "滨崎步",
+      "has_synced": false,
+      "path": "select/15_Seasons_四季(A_BEST_-15th_Anniversary_Edition-)_滨崎步.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "陈珊妮",
+      "has_synced": true,
+      "path": "select/16_四季_陈珊妮.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/17_四季_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "四季",
+      "artist": "萬芳",
+      "has_synced": true,
+      "path": "select/18_四季_萬芳.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "四季",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_四季_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "四季",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_四季_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "四季",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_03_四季_クリープハイプ.txt"
+    }
+  ]
+}
